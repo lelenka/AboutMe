@@ -4,4 +4,4 @@
 В этом году решила освоить новую профессию тестировщика. 
 Считаю ее интересной и востребованной.
 
-![](About Me/img_3.jpg)
+![] (https://github.com/lelenka/AboutMe/blob/main/img_3.JPG)
